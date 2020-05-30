@@ -1,6 +1,6 @@
 # instameme
 
-A new Flutter application.
+Instagram like app for memes using Flutter using firebase services
 
 ## Getting Started
 
