@@ -2,8 +2,8 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post 1",
-      "media": "https://images.unsplash.com/photo-1592179601194-b2c3142da2ce",
+      "title": "Scooooooty !!",
+      "media": "https://images.unsplash.com/photo-1592318054629-d6bbf75b6a4c?fit=crop&w=500&q=60",
       "date": "2008-11-11 13:23:44",
       "user": "charizard",
       "likes": 10,
@@ -11,8 +11,8 @@
     },
     {
       "id": 12,
-      "title": "Post 2",
-      "media": "https://images.unsplash.com/photo-1592251170502-99f518c7e6f7",
+      "title": "Keep your hands clean",
+      "media": "https://images.unsplash.com/photo-1588774210246-a1dc467758df?fit=crop&w=967&q=80",
       "date": "2018-11-11 13:28ole:44",
       "user": "pikachu",
       "likes": 50,
@@ -20,7 +20,7 @@
     },
     {
       "id": 123,
-      "title": "Post 3",
+      "title": "Alonee...",
       "media": "https://images.unsplash.com/photo-1592293250842-f7d7753a74fb",
       "date": "2018-11-11 13:28ole:44",
       "user": "squirtile",
