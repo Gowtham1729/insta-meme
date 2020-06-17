@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "media": "https://images.unsplash.com/photo-1592179601194-b2c3142da2ce",
+      "date": "2008-11-11 13:23:44",
+      "user": "charizard",
+      "likes": 10,
+      "comments": ["Nice", "Wow", "Sugoi", "Awesome"]      
+    },
+    {
+      "id": 12,
+      "title": "Post 2",
+      "media": "https://images.unsplash.com/photo-1592251170502-99f518c7e6f7",
+      "date": "2018-11-11 13:28ole:44",
+      "user": "pikachu",
+      "likes": 50,
+      "comments": ["Wowe", "cool"]      
+    },
+    {
+      "id": 123,
+      "title": "Post 3",
+      "media": "https://images.unsplash.com/photo-1592293250842-f7d7753a74fb",
+      "date": "2018-11-11 13:28ole:44",
+      "user": "squirtile",
+      "likes": 5000,
+      "comments": ["right", "Bob", "Alice", "hah"]      
+    }
+  ]
+}
